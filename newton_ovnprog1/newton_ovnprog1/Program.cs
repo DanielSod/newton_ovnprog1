@@ -6,10 +6,10 @@ namespace newton_ovnprog1
     {
         static void Main(string[] args)
         {
-            
+            /*
             hangman hang = new hangman();
             hang.printhang();
-            
+            */
 
 
             /*
@@ -31,6 +31,9 @@ namespace newton_ovnprog1
             ovn32 o32 = new ovn32();
             o32.printtwocountup();
             */
+
+            ovn35 o35 = new ovn35();
+            o35.printpwrtoall();
 
         }
     }
