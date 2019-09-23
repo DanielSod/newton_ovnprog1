@@ -6,33 +6,28 @@ namespace newton_ovnprog1
 {
     class ovn35
     {
-        public void  printpwrtoall()
+        
+        public void  printkvadrater()
         {
 
 
 
-            
-            
+            int kvadrat;
 
-            Console.WriteLine("Kvadraten av {0} är: {1}", i, num1);
-
-            pwrtoall(i);
-            
-        }
-                   
-        public void pwrtoall(int i)
-        {
-
-            for (int i = 0; i < 9; i++)
+            int i = 1;
+            do
             {
-                if (i = 10)
-                    break;
 
-            }
+                kvadrat = i * i;
+                Console.WriteLine("Kvadraten av {0}: {1}", i, kvadrat);
+                i++;
 
-    
+            } while (i < 10);
+
+
+            Console.ReadKey();
         }
-                  
-
+           
+    
     }
 }
