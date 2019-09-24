@@ -57,9 +57,13 @@ namespace newton_ovnprog1
             ovn44 o44 = new ovn44();
             o44.printsummaBer();
             */
-
+            /*
             ovn46 o46 = new ovn46();
             o46.printDayToMill();
+            */
+            ovn55 o55 = new ovn55();
+            o55.printCompare();
+
 
         }
     }
