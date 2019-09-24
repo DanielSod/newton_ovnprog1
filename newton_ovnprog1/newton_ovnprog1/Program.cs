@@ -27,6 +27,18 @@ namespace newton_ovnprog1
             o22.printtwonumbers();
             */
             /*
+            ovn25 o25 = new ovn25();
+            o25.printNegPos();
+            */
+            /*
+            ovn26 o26 = new ovn26();
+            o26.printStorst();
+            */
+            /*
+            ovn28 o28 = new ovn28();
+            o28.printTemp();
+            */
+            /*
             ovn27 o27 = new ovn27();
             o27.printSmall();
             */
@@ -34,7 +46,10 @@ namespace newton_ovnprog1
             ovn32 o32 = new ovn32();
             o32.printtwocountup();
             */
-
+            /*
+            ovn33 o33 = new ovn33();
+            o33.printTal();
+            */
             /*
             ovn35 o35 = new ovn35();
             o35.printkvadrater();
@@ -53,6 +68,9 @@ namespace newton_ovnprog1
             o41.printsummaAvTal();
             */
 
+            ovn42 o42 = new ovn42();
+            o42.printHelTal();
+
             /*
             ovn44 o44 = new ovn44();
             o44.printsummaBer();
@@ -61,10 +79,15 @@ namespace newton_ovnprog1
             ovn46 o46 = new ovn46();
             o46.printDayToMill();
             */
+            /*
             ovn55 o55 = new ovn55();
             o55.printCompare();
+            */
+
 
 
         }
     }
 }
+
+//33, 28,25,26,42
