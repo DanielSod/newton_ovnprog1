@@ -67,10 +67,14 @@ namespace newton_ovnprog1
             ovn41 o41 = new ovn41();
             o41.printsummaAvTal();
             */
-
+            /*
             ovn42 o42 = new ovn42();
             o42.printHelTal();
-
+            */
+            /*
+            ovn43 o43 = new ovn43();
+            o43.printJamnHel();
+            */
             /*
             ovn44 o44 = new ovn44();
             o44.printsummaBer();
@@ -79,6 +83,14 @@ namespace newton_ovnprog1
             ovn46 o46 = new ovn46();
             o46.printDayToMill();
             */
+            /*
+            ovn48 o48 = new ovn48();
+            o48.printFakulteten();
+            */
+
+            ovn49 o49 = new ovn49();
+            o49.printAlgo();
+
             /*
             ovn55 o55 = new ovn55();
             o55.printCompare();
@@ -91,3 +103,4 @@ namespace newton_ovnprog1
 }
 
 //33, 28,25,26,42
+//43,48,49
