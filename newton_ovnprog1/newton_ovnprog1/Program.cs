@@ -8,11 +8,14 @@ namespace newton_ovnprog1
         {
             //men01 m01 = new men01();
             //m01.men001();
-
+            
             switchtry sw = new switchtry();
             sw.swihh();
-
-
+            
+            /*
+            ifConditions.ovn11 o11 = new ifConditions.ovn11();
+            o11.printhej();
+            */
             /*
             ovn11 o11 = new ovn11();
             o11.printhej();

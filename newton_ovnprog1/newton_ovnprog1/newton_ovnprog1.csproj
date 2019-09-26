@@ -8,7 +8,27 @@
   <ItemGroup>
     <Compile Remove="hangman.cs" />
     <Compile Remove="ovn0011.cs" />
+    <Compile Remove="ovn11.cs" />
+    <Compile Remove="ovn20.cs" />
+    <Compile Remove="ovn22.cs" />
+    <Compile Remove="ovn25.cs" />
+    <Compile Remove="ovn26.cs" />
+    <Compile Remove="ovn27.cs" />
+    <Compile Remove="ovn28.cs" />
     <Compile Remove="ovn31.cs" />
+    <Compile Remove="ovn32.cs" />
+    <Compile Remove="ovn33.cs" />
+    <Compile Remove="ovn35.cs" />
+    <Compile Remove="ovn37.cs" />
+    <Compile Remove="ovn39.cs" />
+    <Compile Remove="ovn41.cs" />
+    <Compile Remove="ovn42.cs" />
+    <Compile Remove="ovn43.cs" />
+    <Compile Remove="ovn44.cs" />
+    <Compile Remove="ovn46.cs" />
+    <Compile Remove="ovn48.cs" />
+    <Compile Remove="ovn49.cs" />
+    <Compile Remove="ovn55.cs" />
   </ItemGroup>
 
 </Project>
