@@ -7,6 +7,7 @@
 
   <ItemGroup>
     <Compile Remove="hangman.cs" />
+    <Compile Remove="ovn0011.cs" />
     <Compile Remove="ovn31.cs" />
   </ItemGroup>
 

@@ -6,10 +6,11 @@ namespace newton_ovnprog1
     {
         static void Main(string[] args)
         {
-            /*
-            hangman hang = new hangman();
-            hang.printhang();
-            */
+            //men01 m01 = new men01();
+            //m01.men001();
+
+            switchtry sw = new switchtry();
+            sw.swihh();
 
 
             /*
@@ -87,10 +88,10 @@ namespace newton_ovnprog1
             ovn48 o48 = new ovn48();
             o48.printFakulteten();
             */
-
+            /*
             ovn49 o49 = new ovn49();
             o49.printAlgo();
-
+            */
             /*
             ovn55 o55 = new ovn55();
             o55.printCompare();
