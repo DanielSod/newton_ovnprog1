@@ -20,21 +20,6 @@ namespace newton_ovnprog1
             Console.WriteLine("");
 
             
-
-
-            Console.WriteLine("1. Övning 10-20");
-            Console.WriteLine("2. Övning 21-30");
-            Console.WriteLine("3. Övning 31-40");
-            Console.WriteLine("4. Övning 41-50");
-            Console.WriteLine("5. Övning 51-60");
-
-            
-           
-
-
-
-
-            
         }
         
 

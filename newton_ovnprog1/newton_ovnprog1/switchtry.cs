@@ -6,23 +6,36 @@ namespace newton_ovnprog1
 {
     class switchtry
     {
+        
+
         public void swihh()
         {
             
 
             start:
             Console.Clear();
-            Console.WriteLine("Välj från meny: ");
-                Console.WriteLine("1. Sequence Proframming: 01-10");
-                Console.WriteLine("2. If conditions: 11-30");
-                Console.WriteLine("3. ForLoops 31-60?");
-                Console.WriteLine("0. Avslutar programmet");
-                //Console.WriteLine("5. Ovning 41-50");
+            Console.WriteLine("          #   # ");
+            Console.WriteLine("           # #  ");
+            Console.WriteLine("            #   ");
+            Console.WriteLine("       Victorious");
+            Console.WriteLine("        Glorious");
+            Console.WriteLine("");
+            Console.WriteLine("      Here to rule");
+            Console.WriteLine("         all CODE");
+            Console.WriteLine("");
+            Console.WriteLine("      Välj från meny: ");
+                Console.WriteLine("   1. Sequence Proframming: 01-10");
+                Console.WriteLine("   2. If conditions: 11-30");
+                Console.WriteLine("   3. ForLoops 31-60?");
+                Console.WriteLine("   4. Arrays");
+                Console.WriteLine("   5. Collections");
+                Console.WriteLine("   0. Avslutar programmet");
+                
                 //Console.WriteLine("6. Ovning 51-60");
                 int caseSwitch = Convert.ToInt32(Console.ReadLine());
-                switch (caseSwitch)
-                
-                {
+            switch (caseSwitch)
+
+            {
 
                 #region Sequence programming
                 case 1:
@@ -35,24 +48,25 @@ namespace newton_ovnprog1
                     int caseSubswitch01 = Convert.ToInt32(Console.ReadLine());
                     switch (caseSubswitch01)
                     {
-                            case 1:
-                            sequencePrograming.ovn01 o01= new sequencePrograming.ovn01();
-                            o01.hello();
+                        case 1:
+
+                            //sequencePrograming.ovn01 o01= new sequencePrograming.ovn01();
+                            //o01.hello();
                             Console.WriteLine("\n \n");
                             Console.ReadKey();
                             goto start;
-                            case 2:
+                        case 2:
                             Console.WriteLine("Ovning2");
                             break;
-                            case 3:
+                        case 3:
                             Console.WriteLine("Ovning3");
                             break;
-                            default:
+                        default:
                             goto start;
 
-                    }   
+                    }
                     goto start;
-#endregion
+                #endregion
 
                 #region If_Conditions
                 case 2:
@@ -214,16 +228,54 @@ namespace newton_ovnprog1
                             Console.ReadKey();
                             goto start;
 
-                        default: 
+                        default:
                             goto start;
                     }
                 #endregion
+
+                #region Arrays
+                case 4:
+                    Console.WriteLine("Arrays: ");
+                    Console.WriteLine("1. Övning 1");
+
+
+                    Console.Write("Ange val: ");
+                    int caseSubswitch04 = Convert.ToInt32(Console.ReadLine());
+                    switch (caseSubswitch04)
+                    {
+                        case 1:
+                        Arrays.array_ovn1 arr01 = new Arrays.array_ovn1();
+                        arr01.ArrayEx();
+                        Console.ReadKey();
+                        goto start;
+                    }
+                    break;
+
+                #endregion
+                #region Collections
+                case 5:
+                    Console.WriteLine("Collections: ");
+                    Console.WriteLine("1. Övning 1");
+
+
+                    Console.Write("Ange val: ");
+                    int caseSubswitch05 = Convert.ToInt32(Console.ReadLine());
+                    switch (caseSubswitch05)
+                    {
+                        case 1:
+                            Collections.coll_ovn1.printBoth();
+                            Console.ReadKey();
+                            goto start;
+                    }
+                    break;
+                #endregion
+
+
                 case 0:
                     Console.WriteLine("Avsluta");
                     break;
-                    case 5:
-                    Console.WriteLine("Ovning 41-50");
-                    break;
+                    
+                    
                     case 6:
                     Console.WriteLine("Ovning 51-60");
                     break;
