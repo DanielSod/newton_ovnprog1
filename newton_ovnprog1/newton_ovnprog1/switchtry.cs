@@ -237,7 +237,10 @@ namespace newton_ovnprog1
                 case 4:
                     Console.WriteLine("Arrays: ");
                     Console.WriteLine("1. Övning 1");
-
+                    Console.WriteLine("66. Övning 66");
+                    Console.WriteLine("67. Övning 67");
+                    Console.WriteLine("68. Övning 68");
+                    Console.WriteLine("69. Övning 69");
 
                     Console.Write("Ange val: ");
                     int caseSubswitch04 = Convert.ToInt32(Console.ReadLine());
@@ -248,6 +251,26 @@ namespace newton_ovnprog1
                         arr01.ArrayEx();
                         Console.ReadKey();
                         goto start;
+                            case 66:
+                            Arrays.ovn66 arr66 = new Arrays.ovn66();
+                            arr66.printOvn66();
+                            Console.ReadKey();
+                            goto start;
+                        case 67:
+                            Arrays.ovn67 arr67 = new Arrays.ovn67();
+                            arr67.printOvn67();
+                            Console.ReadKey();
+                            goto start;
+                        case 68:
+                            Arrays.ovn68 arr68 = new Arrays.ovn68();
+                            arr68.printOvn68();
+                            Console.ReadKey();
+                            goto start;
+                        case 69:
+                            Arrays.ovn69 arr69 = new Arrays.ovn69();
+                            arr69.printOvn69();
+                            Console.ReadKey();
+                            goto start;
                     }
                     break;
 
@@ -256,7 +279,7 @@ namespace newton_ovnprog1
                 case 5:
                     Console.WriteLine("Collections: ");
                     Console.WriteLine("1. Övning 1");
-
+                    
 
                     Console.Write("Ange val: ");
                     int caseSubswitch05 = Convert.ToInt32(Console.ReadLine());

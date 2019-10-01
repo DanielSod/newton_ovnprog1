@@ -6,6 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Arrays\ovn71.cs" />
     <Compile Remove="hangman.cs" />
     <Compile Remove="ovn0011.cs" />
     <Compile Remove="ovn11.cs" />
