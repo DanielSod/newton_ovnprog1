@@ -35,7 +35,7 @@ namespace newton_ovnprog1.Arrays
             
             Console.WriteLine("The last negative nr {0} was on index: {1}", lastNegative, lastIndex);
 
-            // heje hejejehhejeheje
+            // heje hejejehhejeheje nu kör vi igen!
         }
     }
 }
