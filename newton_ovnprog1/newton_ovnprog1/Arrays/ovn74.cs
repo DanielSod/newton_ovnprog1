@@ -17,5 +17,9 @@ Med följande värden i en array:
  */
     class ovn74
     {
+        public void printOvn74()
+        {
+
+        }
     }
 }

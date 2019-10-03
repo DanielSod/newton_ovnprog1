@@ -22,7 +22,28 @@ Med följande värden i arrayn:
  */
     class ovn70
     {
+        public void printOvn70()
+        {
+            int[] nums = { 2, 3, -5, -1, 10 };
 
+            Array.Sort(nums);
+            
+            
 
+            Console.WriteLine("Negativa nr: ");
+            for (int i = 0; i < 5; i++)
+            {
+                if (nums[i] < 0)
+                    Console.Write("{0}  ", nums[i]);
+            }
+
+            Console.WriteLine("\nPostiva nr: ");
+
+            for (int i = 0; i < 5; i++)
+            {
+                if (nums[i] > 0)
+                    Console.Write("{0}  ", nums[i]);
+            }
+        }
     }
 }

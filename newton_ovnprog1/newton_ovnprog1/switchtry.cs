@@ -241,6 +241,11 @@ namespace newton_ovnprog1
                     Console.WriteLine("67. Övning 67");
                     Console.WriteLine("68. Övning 68");
                     Console.WriteLine("69. Övning 69");
+                    Console.WriteLine("70. Övning 70");
+                    Console.WriteLine("72. Övning 72");
+                    Console.WriteLine("73. Övning 73");
+                    Console.WriteLine("74. Övning 74");
+                    Console.WriteLine("75. Övning 75");
 
                     Console.Write("Ange val: ");
                     int caseSubswitch04 = Convert.ToInt32(Console.ReadLine());
@@ -269,6 +274,31 @@ namespace newton_ovnprog1
                         case 69:
                             Arrays.ovn69 arr69 = new Arrays.ovn69();
                             arr69.printOvn69();
+                            Console.ReadKey();
+                            goto start;
+                        case 70:
+                            Arrays.ovn70 arr70 = new Arrays.ovn70();
+                            arr70.printOvn70();
+                            Console.ReadKey();
+                            goto start;
+                        case 72:
+                            Arrays.ovn72 arr72 = new Arrays.ovn72();
+                            arr72.printOvn72();
+                            Console.ReadKey();
+                            goto start;
+                        case 73:
+                            Arrays.ovn73 arr73 = new Arrays.ovn73();
+                            arr73.printOvn73();
+                            Console.ReadKey();
+                            goto start;
+                        case 74:
+                            Arrays.ovn74 arr74 = new Arrays.ovn74();
+                            arr74.printOvn74();
+                            Console.ReadKey();
+                            goto start;
+                        case 75:
+                            Arrays.ovn75 arr75 = new Arrays.ovn75();
+                            arr75.printOvn75();
                             Console.ReadKey();
                             goto start;
                     }

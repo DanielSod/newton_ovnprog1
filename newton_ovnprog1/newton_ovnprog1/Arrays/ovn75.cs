@@ -16,5 +16,9 @@ namespace newton_ovnprog1.Arrays
  */
     class ovn75
     {
+        public void printOvn75()
+        {
+
+        }
     }
 }
