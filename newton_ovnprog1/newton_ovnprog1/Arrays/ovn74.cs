@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Collections.Generic;
 using System.Text;
 
@@ -19,7 +20,13 @@ Med följande värden i en array:
     {
         public void printOvn74()
         {
+            int[] numbers = { 2, 3, 5, 8, 10 };
 
+            int smallest = numbers.Min();
+            int biggest = numbers.Max();
+            
+            Console.WriteLine("Biggest value is: ", biggest);
+            Console.WriteLine("Smallest value is: ", smallest);
         }
     }
 }

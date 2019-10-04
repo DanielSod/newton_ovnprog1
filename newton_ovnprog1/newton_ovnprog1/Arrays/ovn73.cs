@@ -18,15 +18,19 @@ namespace newton_ovnprog1.Arrays
     {
         public void printOvn73()
         {
-            int sum = 0;
-            int average = 0;
+            double sum = 0;
+            double average = 0;
 
             double[] numbers = {2, 3.5, 5, 8, 10};
 
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                sum = numbers[i] + sum;
+            }
 
+            average = sum / (numbers.Length);
 
-
-            Console.Write("The sum of all array items is: {0}", sum);
+            Console.Write("The sum of all array items is: {0}\n", sum);
             Console.Write("The average of all array items is: {0}", average);
 
         }

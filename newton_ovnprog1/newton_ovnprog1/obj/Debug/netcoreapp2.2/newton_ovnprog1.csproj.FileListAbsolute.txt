@@ -20,3 +20,14 @@ C:\Users\danie\Documents\Objektorienterad programmering\newton_ovnprog1\newton_o
 C:\Users\danie\Documents\Objektorienterad programmering\newton_ovnprog1\newton_ovnprog1\newton_ovnprog1\bin\Debug\netcoreapp2.2\newton_ovnprog1.runtimeconfig.dev.json
 C:\Users\danie\Documents\Objektorienterad programmering\newton_ovnprog1\newton_ovnprog1\newton_ovnprog1\bin\Debug\netcoreapp2.2\newton_ovnprog1.dll
 C:\Users\danie\Documents\Objektorienterad programmering\newton_ovnprog1\newton_ovnprog1\newton_ovnprog1\bin\Debug\netcoreapp2.2\newton_ovnprog1.pdb
+D:\#Programmering\från bärbara genom git\newton_ovnprog1-master\newton_ovnprog1\newton_ovnprog1\newton_ovnprog1\bin\Debug\netcoreapp2.2\newton_ovnprog1.deps.json
+D:\#Programmering\från bärbara genom git\newton_ovnprog1-master\newton_ovnprog1\newton_ovnprog1\newton_ovnprog1\bin\Debug\netcoreapp2.2\newton_ovnprog1.runtimeconfig.json
+D:\#Programmering\från bärbara genom git\newton_ovnprog1-master\newton_ovnprog1\newton_ovnprog1\newton_ovnprog1\bin\Debug\netcoreapp2.2\newton_ovnprog1.runtimeconfig.dev.json
+D:\#Programmering\från bärbara genom git\newton_ovnprog1-master\newton_ovnprog1\newton_ovnprog1\newton_ovnprog1\bin\Debug\netcoreapp2.2\newton_ovnprog1.dll
+D:\#Programmering\från bärbara genom git\newton_ovnprog1-master\newton_ovnprog1\newton_ovnprog1\newton_ovnprog1\bin\Debug\netcoreapp2.2\newton_ovnprog1.pdb
+D:\#Programmering\från bärbara genom git\newton_ovnprog1-master\newton_ovnprog1\newton_ovnprog1\newton_ovnprog1\obj\Debug\netcoreapp2.2\newton_ovnprog1.csprojAssemblyReference.cache
+D:\#Programmering\från bärbara genom git\newton_ovnprog1-master\newton_ovnprog1\newton_ovnprog1\newton_ovnprog1\obj\Debug\netcoreapp2.2\newton_ovnprog1.csproj.CoreCompileInputs.cache
+D:\#Programmering\från bärbara genom git\newton_ovnprog1-master\newton_ovnprog1\newton_ovnprog1\newton_ovnprog1\obj\Debug\netcoreapp2.2\newton_ovnprog1.AssemblyInfoInputs.cache
+D:\#Programmering\från bärbara genom git\newton_ovnprog1-master\newton_ovnprog1\newton_ovnprog1\newton_ovnprog1\obj\Debug\netcoreapp2.2\newton_ovnprog1.AssemblyInfo.cs
+D:\#Programmering\från bärbara genom git\newton_ovnprog1-master\newton_ovnprog1\newton_ovnprog1\newton_ovnprog1\obj\Debug\netcoreapp2.2\newton_ovnprog1.dll
+D:\#Programmering\från bärbara genom git\newton_ovnprog1-master\newton_ovnprog1\newton_ovnprog1\newton_ovnprog1\obj\Debug\netcoreapp2.2\newton_ovnprog1.pdb

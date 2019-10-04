@@ -18,7 +18,21 @@ namespace newton_ovnprog1.Arrays
     {
         public void printOvn75()
         {
+            int sumPos = 0;
+            int sumNeg = 0;
 
+            int[] numbers = { 2, -3, -5, 8, 10 };
+
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                if (numbers[i] < 0)
+                    sumNeg = numbers[i] + sumNeg;
+                else
+                    sumPos = numbers[i] + sumPos;
+            }
+            
+            Console.WriteLine("The sum of all positive nrs are: {0}", sumPos);
+            Console.WriteLine("The sum of all negative nrs are: {0}", sumNeg);
         }
     }
 }
