@@ -4,6 +4,29 @@ using System.Text;
 
 namespace newton_ovnprog1.forLoops
 {
+
+//      55. Läs in 11 heltal.Bestäm och skriv ut summan av de tal som är större än första talet som lästes in, samt summan av de tal som var mindre än det första talet som lästes in. 
+//          a.Minst en förekomst av ett tal som var större, respektive mindre än det första talet som lästes in måste förekomma i de efterföljande inlästa talen.
+
+//          Utskriften bör se ut på följande sätt om 50 var första talet:
+//          Input first number to compare to others
+//          50
+//          _________________________
+//          Input number 1     1
+//     
+//          Input number 2     2
+//          Input number 3     3
+//          Input number 4     4
+//          Input number 5     5
+//          Input number 6     55
+//          Input number 7     55
+//          Input number 8     55
+//          Input number 9     55
+//          Input number 10     55
+//          Sum of numbers larger then 50 is 275
+//          Sum of numbers smaller then 50 is 15
+
+
     class ovn55
     {
         public void printCompare()

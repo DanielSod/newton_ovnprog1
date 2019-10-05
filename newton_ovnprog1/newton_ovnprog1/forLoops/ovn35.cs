@@ -4,6 +4,9 @@ using System.Text;
 
 namespace newton_ovnprog1.forLoops
 {
+
+    //  35.	Beräkna kvadraten för talen 1 till 9.
+
     class ovn35
     {
         public void printkvadrater()

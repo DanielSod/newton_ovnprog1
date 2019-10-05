@@ -4,6 +4,10 @@ using System.Text;
 
 namespace newton_ovnprog1.ifConditions
 {
+
+    //  26.	Läs in två tal, och skriv ut det största talet, följt av orden “är störst”.  
+    //      Om talet är lika, skriv ut “Talen är lika”.
+
     class ovn26
     {
         public void printStorst()

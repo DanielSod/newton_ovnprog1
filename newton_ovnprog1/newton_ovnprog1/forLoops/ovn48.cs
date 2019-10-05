@@ -4,6 +4,12 @@ using System.Text;
 
 namespace newton_ovnprog1.forLoops
 {
+
+    //  48.	Skriv ut n! (fakulteten). n ska läsas in.
+    //      a.ex: 3!=1*2*3
+    //      b.ex: 5!=1*2*3*4*5
+
+
     class ovn48
     {
         public void printFakulteten()

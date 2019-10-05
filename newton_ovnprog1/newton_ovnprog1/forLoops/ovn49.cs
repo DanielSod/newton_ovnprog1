@@ -4,6 +4,12 @@ using System.Text;
 
 namespace newton_ovnprog1.forLoops
 {
+
+    //  49.	Beräkna och resultatet för följande algoritm:
+    //      a.f(x)=xn
+    //      b.x och n ska läsas in.
+
+
     class ovn49
     {
         public void printAlgo()

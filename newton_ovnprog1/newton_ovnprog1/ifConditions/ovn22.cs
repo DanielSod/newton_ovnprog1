@@ -4,6 +4,9 @@ using System.Text;
 
 namespace newton_ovnprog1.ifConditions
 {
+
+    //  22.	Läs in ett tal, testa om talet är mellan 0 till 9, men inte 5.  Printa ut Rätt eller Fel.
+
     class ovn22
     {
         public void printtwonumbers()

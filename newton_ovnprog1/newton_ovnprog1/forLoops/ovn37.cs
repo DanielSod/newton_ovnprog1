@@ -4,6 +4,17 @@ using System.Text;
 
 namespace newton_ovnprog1.forLoops
 {
+
+    //  37.	Läs in antal tal du vill ange, läs sedan in talen och printa ut de.
+    //      OBS! Du ska inte kunna skriva in fler eller mindre tal än vad du först angav.
+    //      Formatet ska vara följande om jag skrev in 4 för antal siffror som ska
+    //      ska skrivas ut.
+    //      Skriv in ett tal    23    1:a talet
+    //      Skriv in ett tal    65    2:a talet
+    //      Skriv in ett tal    8     3:a talet
+    //      Skriv in ett tal    455   4:a talet
+
+
     class ovn37
     {
         public void printAntTal()

@@ -4,6 +4,9 @@ using System.Text;
 
 namespace newton_ovnprog1.forLoops
 {
+
+    //  32.	Skriv ut talen 2, 4, 6, …. 100.
+
     class ovn32
     {
         public void printtwocountup()

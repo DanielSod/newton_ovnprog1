@@ -4,6 +4,9 @@ using System.Text;
 
 namespace newton_ovnprog1.ifConditions
 {
+
+    //  27.	Läs in tre tal, skriv ut det minsta talet.
+
     class ovn27
     {
         public void printSmall()

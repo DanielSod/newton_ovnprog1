@@ -4,6 +4,14 @@ using System.Text;
 
 namespace newton_ovnprog1.forLoops
 {
+
+    //  43.	Skriv ut summan av de jämna heltalen från 2 till 30.
+    //      Svaret Måste vara i följande format:
+    //      Omgång1 är summan: 2,
+    //      Omgång2 är summan: 6,
+    //      Omgång3 är summan: 12....och så vidare
+
+
     class ovn43
     {
         public void printJamnHel()

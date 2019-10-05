@@ -4,6 +4,11 @@ using System.Text;
 
 namespace newton_ovnprog1.forLoops
 {
+
+    //  46.	Lönen första dagen är 1 öre.andra dag är det 2 öre, 
+    //      tredje dagen är det 4 öre.Alltså fördubblas lönen varje dag.
+    //      Hur många dagar måste man jobba för att tjäna ihop 1 miljon kronor.
+
     class ovn46
     {
         public void printDayToMill()

@@ -4,6 +4,9 @@ using System.Text;
 
 namespace newton_ovnprog1.ifConditions
 {
+
+    //  25.	Läs in ett tal och skriv ut om det är positivt eller negativt.
+
     class ovn25
     {
         public void printNegPos()

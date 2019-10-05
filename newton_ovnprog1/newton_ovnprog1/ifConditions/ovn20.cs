@@ -4,6 +4,10 @@ using System.Text;
 
 namespace newton_ovnprog1.ifConditions
 {
+
+    //  20.	Läs in ett tal, testa om talet är mellan 0 till 9, 
+    //      i så fall skriv ut kvadraten.Annars generera en felmeddalnde.
+
     class ovn20
     {
         public void printkvad()
