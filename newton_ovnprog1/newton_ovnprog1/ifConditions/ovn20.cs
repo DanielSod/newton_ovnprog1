@@ -44,3 +44,45 @@ namespace newton_ovnprog1.ifConditions
 
     }
 }
+
+
+#region Teacher
+
+//using System;
+//namespace algoritmer
+//{
+
+//    /*Läs in ett tal, testa om talet är mellan 0 till 9, i så fall skriv ut
+//     kvadraten.
+//     Annars generera en felmeddalnde
+//     */
+//    public class Övn20
+//    {
+//        double Kvadrat;
+
+//        public double calcKvadrat(double tal)
+//        {
+//            //if(tal <= 0 && tal <= 9)
+//            if (0 <= tal && tal <= 9)
+//            {
+//                Kvadrat = tal * tal;
+//            }
+//            else
+//            {
+//                Console.WriteLine("ERROR!!!, talet måste vara mellan 0 till 9");
+//                ;
+//            }
+//            return Kvadrat;
+//        }
+
+//        public void printCalcKvadrat()
+//        {
+//            Console.WriteLine("Skiv in ett tal");
+//            double t = double.Parse(Console.ReadLine());
+
+//            Console.WriteLine("Svar: " + calcKvadrat(t));
+//        }
+//    }
+//}
+
+#endregion

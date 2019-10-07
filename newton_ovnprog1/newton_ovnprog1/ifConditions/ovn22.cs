@@ -34,3 +34,39 @@ namespace newton_ovnprog1.ifConditions
 
     }
 }
+
+
+#region Teacher
+
+//using System;
+//namespace algoritmer
+//{
+//    /*
+//     Läs in ett tal, testa om talet är mellan 0 till 9, men inte 5.
+//     Printa ut Rätt eller Fel
+//     */
+//    public class Övn22
+//    {
+//        public void CheckNum(int num)
+//        {
+//            if (0 <= num && num <= 9 && num != 5)
+//            {
+//                Console.WriteLine("RÄTT!!!");
+//            }
+//            else
+//            {
+//                Console.WriteLine("FEL!!!");
+//            }
+//        }
+
+//        public void printCheckNum()
+//        {
+//            Console.WriteLine("Mata in ett tal: ");
+
+//            int n = int.Parse(Console.ReadLine());
+//            CheckNum(n);
+//        }
+//    }
+//}
+
+#endregion

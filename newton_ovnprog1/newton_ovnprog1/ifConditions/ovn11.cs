@@ -36,4 +36,34 @@ namespace newton_ovnprog1.ifConditions
     }
 }
 
-   
+
+#region Teacher
+
+//using System;
+//namespace NewtonStudentExecies.ifConditions
+//{
+//    public class Övn11
+//    {
+//        public void IsVal1Bigger(double t1, double t2)
+//        {
+//            if (t1 > t2)
+//            {
+//                Console.WriteLine("Tal1 är större än tal2");
+//            }
+//        }
+
+//        public void printIsVal1Bigger()
+//        {
+//            Console.WriteLine("Läs in tal1");
+//            double tal1 = (double)Convert.ToDouble(Console.ReadLine());
+
+//            Console.WriteLine("Läs in tal2");
+//            double tal2 = (double)Convert.ToDouble(Console.ReadLine());
+
+//            IsVal1Bigger(tal1, tal2);
+//        }
+//    }
+//}
+
+#endregion
+

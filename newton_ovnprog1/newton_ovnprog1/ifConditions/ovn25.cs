@@ -27,3 +27,39 @@ namespace newton_ovnprog1.ifConditions
 
     }
 }
+
+
+#region Teacher
+
+//using System;
+//namespace algoritmer
+//{
+//    //Läs in ett tal och skriv ut om det är positivt eller negativt
+//    public class Övn25
+//    {
+//        public void checkPosNeg(decimal num)
+//        {
+//            if (num > 0)
+//            {
+//                Console.WriteLine("Positivt tal");
+//            }
+//            else
+//            {
+//                if (num < 0)
+//                {
+//                    Console.WriteLine("Negativt tal");
+//                }
+//            }
+//        }
+
+//        public void printCheckPosNeg()
+//        {
+//            Console.WriteLine("Skriv in ett tal: ");
+//            decimal t = decimal.Parse(Console.ReadLine());
+
+//            checkPosNeg(t);
+//        }
+//    }
+//}
+
+#endregion

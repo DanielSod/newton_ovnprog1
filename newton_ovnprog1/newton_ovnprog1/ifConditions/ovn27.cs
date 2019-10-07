@@ -50,3 +50,52 @@ namespace newton_ovnprog1.ifConditions
 
     }
 }
+
+
+#region Teacher
+
+//using System;
+//namespace algoritmer
+//{
+//    /*
+//     Läs in tre tal, skriv ut det minsta talet
+//     */
+//    public class Övn27
+//    {
+//        public static void SmallestNum(decimal num1, decimal num2, decimal num3)
+//        {
+//            decimal number1 = num1;
+//            decimal number2 = num2;
+//            decimal number3 = num3;
+
+//            if (num1 < num2 && num1 < num3)
+//            {
+//                Console.WriteLine($"{number1} är minst");
+//            }
+//            else if (num2 < num1 && num2 < num3)
+//            {
+//                Console.WriteLine($"{number2} är minst");
+//            }
+//            else
+//            {
+//                Console.WriteLine($"{number3} är minst");
+//            }
+//        }
+
+//        public void printSmallestNum()
+//        {
+//            Console.WriteLine("Läs in tal1: ");
+//            decimal t1 = decimal.Parse(Console.ReadLine());
+
+//            Console.WriteLine("Läs in tal2: ");
+//            decimal t2 = decimal.Parse(Console.ReadLine());
+
+//            Console.WriteLine("Läs in tal3: ");
+//            decimal t3 = decimal.Parse(Console.ReadLine());
+
+//            SmallestNum(t1, t2, t3);
+//        }
+//    }
+//}
+
+#endregion

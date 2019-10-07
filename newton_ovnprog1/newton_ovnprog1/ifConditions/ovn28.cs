@@ -35,3 +35,44 @@ namespace newton_ovnprog1.ifConditions
         }
     }
 }
+
+
+#region Teacher
+
+
+//using System;
+//namespace algoritmer
+//{
+
+//    /*
+//     Läs in tempratur, om temp är mellan 18 till 25 grader, så ska Lagom skrivas
+//     ut.
+//     Om det är varmare än 25 grader så ska För varmt skrivas ut.
+//     Om det är under 18 grader så ska det skrivas ut, För kallt.*/
+//    public class Övn28
+//    {
+//        public void CheckTemp(decimal temp)
+//        {
+//            if (18 <= temp && temp <= 25)
+//            {
+//                Console.WriteLine("Lagom tempratur");
+//            }
+//            else if (temp > 25)
+//            {
+//                Console.WriteLine("För varmt");
+//            }
+//            else { Console.WriteLine("För kallt"); }
+
+//        }
+
+//        public void printCheckTemp()
+//        {
+//            Console.WriteLine("Skriv in ett tal: ");
+//            decimal t = decimal.Parse(Console.ReadLine());
+
+//            CheckTemp(t);
+//        }
+//    }
+//}
+
+#endregion

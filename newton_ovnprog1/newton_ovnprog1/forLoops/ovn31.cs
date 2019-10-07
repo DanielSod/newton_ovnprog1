@@ -17,3 +17,10 @@ namespace newton_ovnprog1.forLoops
 
     }
 }
+
+
+#region Teacher
+
+
+
+#endregion

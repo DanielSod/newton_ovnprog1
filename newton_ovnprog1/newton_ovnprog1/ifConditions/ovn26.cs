@@ -29,3 +29,46 @@ namespace newton_ovnprog1.ifConditions
 
     }
 }
+
+
+#region Teacher
+
+//using System;
+//namespace algoritmer
+//{
+//    /*
+//     Läs in två tal, och skriv ut det största talet, följt av orden "är störst"
+//     Om talet är lika, skriv ut "Talen är lika"
+//     */
+//    public class Övn26
+//    {
+//        public void CheckBigNum(decimal num1, decimal num2)
+//        {
+//            if (num1 > num2)
+//            {
+//                Console.WriteLine("Tal1 är störst");
+//            }
+//            else if (num2 > num1)
+//            {
+//                Console.WriteLine("Tal2 är störst");
+//            }
+//            else
+//            {
+//                Console.WriteLine("Talen är lika");
+//            }
+//        }
+
+//        public void printCheckBigNum()
+//        {
+//            Console.WriteLine("Skriv in tal1");
+//            decimal t1 = decimal.Parse(Console.ReadLine());
+
+//            Console.WriteLine("Skriv in tal2");
+//            decimal t2 = decimal.Parse(Console.ReadLine());
+
+//            CheckBigNum(t1, t2);
+//        }
+//    }
+//}
+
+#endregion
