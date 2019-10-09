@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Linq;
 
 namespace newton_ovnprog1.ifConditions
 {
@@ -13,8 +14,25 @@ namespace newton_ovnprog1.ifConditions
     {
         public void printOvn19()
         {
+            Console.Write("Läs in antal timmar du jobbar denna veckan: ");
+            double timmar = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Läs in lön: ");
+            double lon = Convert.ToDouble(Console.ReadLine());
 
+            double summaLon = 0;
 
+            if (timmar > 40)
+            {
+                double overtid = timmar - 40;
+                double overLon = overtid * (lon * 1.5);
+                double normLon = timmar * lon;
+                summaLon = normLon + overLon;
+            }
+            else
+                summaLon = timmar * lon;
+            
+            Math.Round(summaLon, 2);
+            Console.WriteLine("Totala lönen är: " + summaLon);
         }
 
     }

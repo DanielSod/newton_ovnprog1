@@ -686,24 +686,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Slacker\\.nuget\\packages\\": {},
+    "C:\\Users\\danie\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\#Programmering\\från bärbara genom git\\newton_ovnprog1-master\\newton_ovnprog1\\newton_ovnprog1\\newton_ovnprog1\\newton_ovnprog1.csproj",
+      "projectUniqueName": "C:\\Users\\danie\\Documents\\Objektorienterad programmering\\newton_ovnprog1\\master\\newton_ovnprog1\\newton_ovnprog1\\newton_ovnprog1.csproj",
       "projectName": "newton_ovnprog1",
-      "projectPath": "D:\\#Programmering\\från bärbara genom git\\newton_ovnprog1-master\\newton_ovnprog1\\newton_ovnprog1\\newton_ovnprog1\\newton_ovnprog1.csproj",
-      "packagesPath": "C:\\Users\\Slacker\\.nuget\\packages\\",
-      "outputPath": "D:\\#Programmering\\från bärbara genom git\\newton_ovnprog1-master\\newton_ovnprog1\\newton_ovnprog1\\newton_ovnprog1\\obj\\",
+      "projectPath": "C:\\Users\\danie\\Documents\\Objektorienterad programmering\\newton_ovnprog1\\master\\newton_ovnprog1\\newton_ovnprog1\\newton_ovnprog1.csproj",
+      "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\danie\\Documents\\Objektorienterad programmering\\newton_ovnprog1\\master\\newton_ovnprog1\\newton_ovnprog1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Slacker\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
