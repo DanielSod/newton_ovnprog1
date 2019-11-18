@@ -12,8 +12,25 @@ namespace newton_ovnprog1.ifConditions
     {
         public void printOvn30()
         {
+            Console.Clear();
+            Console.WriteLine("30.	Läs in ett tal, Printa ut om talet är "
+                        + "mindre än 10, mindre än 100, eller större än 100.\n\n");
 
+            Console.Write("Läs in ett tal: ");
+            int tal = Convert.ToInt32(Console.ReadLine());
 
+            if(tal>100)
+            {
+                Console.WriteLine("Talet är större än 100");
+            }
+            else if (tal<100 && tal>10)
+            { 
+                Console.WriteLine("Talet är mindre än 100");
+            }
+            else if(tal<10)
+            { 
+                Console.WriteLine("Talet är mindre än 10"); 
+            }
         }
 
     }

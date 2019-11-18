@@ -12,7 +12,21 @@ namespace newton_ovnprog1.ifConditions
     {
         public void printOvn23()
         {
+            Console.Clear();
+            Console.WriteLine("23.	Läs in ett tal, testa om talet är jämt delbart med 3," 
+                        + "men inte med 30, I så fall divideras talet med 3.\n\n");
 
+            Console.Write("Läs in ett tal: ");
+            double tal = Convert.ToDouble(Console.ReadLine());
+
+            if (tal % 3 == 0 && tal % 30 != 0)
+            {
+                tal = tal / 3; 
+                Console.WriteLine("Talet är delbart med 3 men ej 30");
+                Console.WriteLine("Talet delat med 3 = "+tal);
+            }
+            else
+                Console.WriteLine("uppfyller ej krav");
 
         }
 

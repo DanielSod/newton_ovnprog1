@@ -19,6 +19,9 @@ namespace newton_ovnprog1.ifConditions
     {
         public void printOvn29()
         {
+            Console.Clear();
+            Console.WriteLine("29.	Beräkna ankomsttiden för ett tåg.... \n\n");
+
 
 
         }

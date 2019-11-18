@@ -12,7 +12,19 @@ namespace newton_ovnprog1.ifConditions
     {
         public void printOvn24()
         {
+            Console.Clear();
+            Console.WriteLine("24.	Läs in kropptempraturen, skriv “VARNING!!“” om temp är "
+                        + "mindre än 35 och om temp överstiger 42\n\n");
 
+            Console.Write("Läs in kroppstemperatur: ");
+            double kroppTemp = Convert.ToDouble(Console.ReadLine());
+
+            if (kroppTemp<35 || kroppTemp>42)
+            {
+                Console.WriteLine("Varning!!");
+            }
+            else
+                Console.WriteLine("Allt är bra");
 
         }
 
