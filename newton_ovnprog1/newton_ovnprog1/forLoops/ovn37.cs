@@ -19,6 +19,7 @@ namespace newton_ovnprog1.forLoops
     {
         public void printAntTal()
         {
+            Console.Clear();
             Console.WriteLine("Läs in antal tal du vill ange: ");
             int antal = Convert.ToInt32(Console.ReadLine());
 

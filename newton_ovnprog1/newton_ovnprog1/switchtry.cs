@@ -512,6 +512,7 @@ namespace newton_ovnprog1
                     break;
 
                 #endregion
+
                 #region Collections
                 case 5:
                     Console.WriteLine("Collections: ");

@@ -11,6 +11,8 @@ namespace newton_ovnprog1.forLoops
     {
         public void printkvadrater()
         {
+            Console.Clear();
+
             int kvadrat;
 
             int i = 1;

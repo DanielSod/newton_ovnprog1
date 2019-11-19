@@ -16,6 +16,8 @@ namespace newton_ovnprog1.forLoops
     {
         public void printJamnHel()
         {
+            Console.Clear();
+
             int sum = 0;
             int omgang = 0;
             for (int i = 2; i < 32; i++)

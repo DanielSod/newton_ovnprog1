@@ -13,6 +13,8 @@ namespace newton_ovnprog1.forLoops
     {
         public void printOvn56()
         {
+            Console.Clear();
+            Console.WriteLine("31.	Läs in ett antal tal som skrivs ut, avsluta med 0. \n\n");
 
 
         }

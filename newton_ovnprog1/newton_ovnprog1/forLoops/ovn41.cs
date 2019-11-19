@@ -17,6 +17,8 @@ namespace newton_ovnprog1.forLoops
     {
         public void printsummaAvTal()
         {
+            Console.Clear();
+
             Console.Write("Ange omgångar: ");
             int omgangar = Convert.ToInt32(Console.ReadLine());
 

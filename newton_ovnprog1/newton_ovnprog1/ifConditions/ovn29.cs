@@ -23,6 +23,35 @@ namespace newton_ovnprog1.ifConditions
             Console.WriteLine("29.	Beräkna ankomsttiden för ett tåg.... \n\n");
 
 
+            Console.Write("Mata in timme för avgång: ");
+            int avresaTim = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Mata in minut för avgång: ");
+            int avresaMin = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("\nMata in timmars restid: ");
+            int resaTim = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Mata in minuters restid: ");
+            int resaMin = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("\n\n");
+
+            //Ankomst: 
+            int ankomstTim = avresaTim + resaTim;
+            int ankomstMin = avresaMin + resaMin;
+
+            if (ankomstMin >=60)
+            {
+                int addHour= ankomstMin / 60;
+                ankomstTim += addHour;
+                ankomstMin = ankomstMin - (addHour * 60);
+            }
+
+            if(ankomstTim >= 24)
+            {
+                ankomstTim = ankomstTim - 24;
+                Console.WriteLine("Uppmärksamma att du anländer nästakommande dag!");
+            }
+            
+            Console.WriteLine("Du anländer: {0}:{1}", ankomstTim,ankomstMin);
 
         }
 

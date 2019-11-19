@@ -13,6 +13,7 @@ namespace newton_ovnprog1.forLoops
     {
         public void printDayToMill()
         {
+            Console.Clear();
 
             int i = 1;
             double sum = 1;
@@ -25,10 +26,6 @@ namespace newton_ovnprog1.forLoops
                 i++;
 
             } while (totspar < 100000000);
-
-            //Console.Write("Antal dagar: " + i);
-
-
 
 
         }

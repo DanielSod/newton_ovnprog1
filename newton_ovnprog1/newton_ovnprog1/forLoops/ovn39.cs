@@ -12,6 +12,7 @@ namespace newton_ovnprog1.forLoops
     {
         public void printPrice()
         {
+            Console.Clear();
             Double pris;
 
 
