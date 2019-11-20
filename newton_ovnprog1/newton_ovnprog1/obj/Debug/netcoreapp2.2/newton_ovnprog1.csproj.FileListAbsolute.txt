@@ -41,3 +41,13 @@ C:\Users\danie\Documents\Objektorienterad programmering\newton_ovnprog1\master\n
 C:\Users\danie\Documents\Objektorienterad programmering\newton_ovnprog1\master\newton_ovnprog1\newton_ovnprog1\obj\Debug\netcoreapp2.2\newton_ovnprog1.AssemblyInfo.cs
 C:\Users\danie\Documents\Objektorienterad programmering\newton_ovnprog1\master\newton_ovnprog1\newton_ovnprog1\obj\Debug\netcoreapp2.2\newton_ovnprog1.dll
 C:\Users\danie\Documents\Objektorienterad programmering\newton_ovnprog1\master\newton_ovnprog1\newton_ovnprog1\obj\Debug\netcoreapp2.2\newton_ovnprog1.pdb
+D:\#Programmering\#Only_for_GitHub\#Console\newton_ovningar_HT19\newton_ovnprog1\newton_ovnprog1\bin\Debug\netcoreapp2.2\newton_ovnprog1.deps.json
+D:\#Programmering\#Only_for_GitHub\#Console\newton_ovningar_HT19\newton_ovnprog1\newton_ovnprog1\bin\Debug\netcoreapp2.2\newton_ovnprog1.runtimeconfig.json
+D:\#Programmering\#Only_for_GitHub\#Console\newton_ovningar_HT19\newton_ovnprog1\newton_ovnprog1\bin\Debug\netcoreapp2.2\newton_ovnprog1.runtimeconfig.dev.json
+D:\#Programmering\#Only_for_GitHub\#Console\newton_ovningar_HT19\newton_ovnprog1\newton_ovnprog1\bin\Debug\netcoreapp2.2\newton_ovnprog1.dll
+D:\#Programmering\#Only_for_GitHub\#Console\newton_ovningar_HT19\newton_ovnprog1\newton_ovnprog1\bin\Debug\netcoreapp2.2\newton_ovnprog1.pdb
+D:\#Programmering\#Only_for_GitHub\#Console\newton_ovningar_HT19\newton_ovnprog1\newton_ovnprog1\obj\Debug\netcoreapp2.2\newton_ovnprog1.csprojAssemblyReference.cache
+D:\#Programmering\#Only_for_GitHub\#Console\newton_ovningar_HT19\newton_ovnprog1\newton_ovnprog1\obj\Debug\netcoreapp2.2\newton_ovnprog1.AssemblyInfoInputs.cache
+D:\#Programmering\#Only_for_GitHub\#Console\newton_ovningar_HT19\newton_ovnprog1\newton_ovnprog1\obj\Debug\netcoreapp2.2\newton_ovnprog1.AssemblyInfo.cs
+D:\#Programmering\#Only_for_GitHub\#Console\newton_ovningar_HT19\newton_ovnprog1\newton_ovnprog1\obj\Debug\netcoreapp2.2\newton_ovnprog1.dll
+D:\#Programmering\#Only_for_GitHub\#Console\newton_ovningar_HT19\newton_ovnprog1\newton_ovnprog1\obj\Debug\netcoreapp2.2\newton_ovnprog1.pdb
